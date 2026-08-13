@@ -1,0 +1,281 @@
+{
+  "items": [
+    {
+      "description": "Tools and libraries for LLM interpretability and analysis.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vanna",
+          "description": "Abstractions to use RAG to generate SQL with any LLM",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-02-02T14:14:20Z",
+            "owner": "vanna-ai",
+            "repo": "vanna",
+            "stars": 23827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix",
+          "description": "AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:52:22Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransformerLens",
+          "description": "A Library for Mechanistic Interpretability of Generative Language Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:46:57Z",
+            "owner": "TransformerLensOrg",
+            "repo": "TransformerLens",
+            "stars": 3784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pythia",
+          "description": "Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-15T17:39:52Z",
+            "owner": "EleutherAI",
+            "repo": "pythia",
+            "stars": 2880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecco",
+          "description": "A python library for exploring and explaining Natural Language Processing models using interactive visualizations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-15T19:08:06Z",
+            "owner": "jalammar",
+            "repo": "ecco",
+            "stars": 2101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Functionary",
+          "description": "Chat language model that can interpret and execute functions/plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T16:05:40Z",
+            "owner": "MeetKai",
+            "repo": "functionary",
+            "stars": 1595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automated Interpretability",
+          "description": "Code for automatically generating, simulating, and scoring explanations of neuron behavior.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-06T18:40:46Z",
+            "owner": "openai",
+            "repo": "automated-interpretability",
+            "stars": 1082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rome",
+          "description": "Locating and editing factual associations in GPT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-20T05:32:37Z",
+            "owner": "kmeng01",
+            "repo": "rome",
+            "stars": 773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Re-Basin",
+          "description": "Code release for \"Git Re-Basin: Merging Models modulo Permutation Symmetries.”",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-07T23:50:34Z",
+            "owner": "samuela",
+            "repo": "git-re-basin",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inseq",
+          "description": "Interpretability for sequence generation models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T15:29:40Z",
+            "owner": "inseq-team",
+            "repo": "inseq",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attention Analysis",
+          "description": "Analyzing attention maps from BERT transformer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-04-04T14:29:27Z",
+            "owner": "clarkkev",
+            "repo": "attention-analysis",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Attention-Heads",
+          "description": "A carefully compiled list that summarizes the diverse functions of the attention heads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-03-02T10:35:09Z",
+            "owner": "IAAR-Shanghai",
+            "repo": "Awesome-Attention-Heads",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparse Autoencoder",
+          "description": "Sparse Autoencoder for Mechanistic Interpretability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-20T15:42:39Z",
+            "owner": "ai-safety-foundation",
+            "repo": "sparse_autoencoder",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comgra",
+          "description": "Comgra helps you analyze and debug neural networks in pytorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-07T18:47:54Z",
+            "owner": "FlorianDietz",
+            "repo": "comgra",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperICL",
+          "description": "Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-16T21:57:01Z",
+            "owner": "JetRunner",
+            "repo": "SuperICL",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Floom",
+          "description": "AI gateway and marketplace for developers, enables streamlined integration of AI features into products",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-17T14:52:35Z",
+            "owner": "FloomAI",
+            "repo": "Floom",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpellGPT",
+          "description": "Explores GPT-3’s ability to spell own token strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T11:40:37Z",
+            "owner": "mwatkins1970",
+            "repo": "SpellGPT",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verified-circuits",
+          "description": "End-to-end, independently-checkable mechanistic interpretability for a learned tiny transformer (Dyck-1): a Lean 4 proof of circuit↔spec equivalence plus a torch-free interval-arithmetic certificate that the model implements the circuit on every input — a re-verifiable Spec == Circuit == Model over a complete finite task.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:30:36Z",
+            "owner": "brian-naughton",
+            "repo": "verified-circuits",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fmr.ai",
+          "description": "AI interpretability and explainability platform.",
+          "children": []
+        }
+      ],
+      "title": "LLM Interpretability Tools"
+    },
+    {
+      "description": "Please see CONTRIBUTING and CODE-OF-CONDUCT for details.",
+      "items": [],
+      "title": "Contributing and Collaborating"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:55:57.388Z",
+    "original_repository": "JShollaj/awesome-llm-interpretability",
+    "original_repository_sha": "e65c62b51bb9a11b4acbe4de9a5142da52a5affe",
+    "enhanced_repository": "enhansome/enhansome-llm-interpretability",
+    "enhanced_repository_description": null,
+    "title": "Awesome LLM Interpretability with stars"
+  }
+}
