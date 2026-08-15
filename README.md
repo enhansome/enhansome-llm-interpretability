@@ -15,10 +15,10 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,046 | 🐛 922 | 🌐 Python | 📅 2026-08-14 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
-3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,787 | 🐛 18 | 🌐 Python | 📅 2026-08-14 - A Library for Mechanistic Interpretability of Generative Language Models.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,057 | 🐛 922 | 🌐 Python | 📅 2026-08-15 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,792 | 🐛 13 | 🌐 Python | 📅 2026-08-15 - A Library for Mechanistic Interpretability of Generative Language Models.
 4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,880 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
-5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,101 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
+5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,100 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,595 | 🐛 39 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
 7. [Automated Interpretability](https://github.com/openai/automated-interpretability) ⚠️ Archived - Code for automatically generating, simulating, and scoring explanations of neuron behavior.
 8. [Rome](https://github.com/kmeng01/rome) ⭐ 773 | 🐛 25 | 🌐 Python | 📅 2024-04-20 - Locating and editing factual associations in GPT.
@@ -28,7 +28,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 12. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) ⭐ 413 | 🐛 4 | 🌐 TeX | 📅 2025-03-02 - A carefully compiled list that summarizes the diverse functions of the attention heads.
 13. [Sparse Autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder) ⭐ 303 | 🐛 15 | 🌐 Python | 📅 2024-07-20 - Sparse Autoencoder for Mechanistic Interpretability.
 14. [Comgra](https://github.com/FlorianDietz/comgra) ⭐ 302 | 🐛 0 | 🌐 Python | 📅 2024-12-07 - Comgra helps you analyze and debug neural networks in pytorch.
-15. [SuperICL](https://github.com/JetRunner/SuperICL) ⭐ 131 | 🐛 0 | 🌐 Python | 📅 2023-05-16 - Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.
+15. [SuperICL](https://github.com/JetRunner/SuperICL) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2023-05-16 - Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.
 16. [Floom](https://github.com/FloomAI/Floom) ⭐ 47 | 🐛 0 | 🌐 C# | 📅 2024-11-17 AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 17. [SpellGPT](https://github.com/mwatkins1970/SpellGPT) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-10-03 - Explores GPT-3’s ability to spell own token strings.
 18. [verified-circuits](https://github.com/brian-naughton/verified-circuits) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-11 - End-to-end, independently-checkable mechanistic interpretability for a learned tiny transformer (Dyck-1): a Lean 4 proof of circuit↔spec equivalence plus a torch-free interval-arithmetic certificate that the model implements the circuit on every input — a re-verifiable Spec == Circuit == Model over a complete finite task.
@@ -148,4 +148,4 @@ Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretabili
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
