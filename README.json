@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 640317662,
             "language": "Python",
             "last_commit": "2026-02-02T14:14:20Z",
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23827
+            "stars": 23826
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-18T07:27:41Z",
+            "last_commit": "2026-08-19T07:18:32Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11091
+            "stars": 11104
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529394355,
             "language": "Python",
-            "last_commit": "2026-08-17T22:40:31Z",
+            "last_commit": "2026-08-19T01:10:13Z",
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3798
+            "stars": 3801
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441778458,
             "language": "Jupyter Notebook",
             "last_commit": "2025-11-15T17:39:52Z",
             "owner": "EleutherAI",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310815780,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-15T19:08:06Z",
             "owner": "jalammar",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665299585,
             "language": "Python",
             "last_commit": "2026-06-30T16:05:40Z",
             "owner": "MeetKai",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 637994750,
             "language": "Python",
             "last_commit": "2024-03-06T18:40:46Z",
             "owner": "openai",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457995289,
             "language": "Python",
             "last_commit": "2024-04-20T05:32:37Z",
             "owner": "kmeng01",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 536027100,
             "language": "Python",
             "last_commit": "2023-03-07T23:50:34Z",
             "owner": "samuela",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406341006,
             "language": "Python",
             "last_commit": "2026-04-25T15:29:40Z",
             "owner": "inseq-team",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190811586,
             "language": "Jupyter Notebook",
             "last_commit": "2021-04-04T14:29:27Z",
             "owner": "clarkkev",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 823700612,
             "language": "TeX",
             "last_commit": "2025-03-02T10:35:09Z",
             "owner": "IAAR-Shanghai",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710672651,
             "language": "Python",
             "last_commit": "2024-07-20T15:42:39Z",
             "owner": "ai-safety-foundation",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 558837933,
             "language": "Python",
             "last_commit": "2024-12-07T18:47:54Z",
             "owner": "FlorianDietz",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640959631,
             "language": "Python",
             "last_commit": "2023-05-16T21:57:01Z",
             "owner": "JetRunner",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 740874713,
             "language": "C#",
             "last_commit": "2024-11-17T14:52:35Z",
             "owner": "FloomAI",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 654225084,
             "language": "Python",
             "last_commit": "2023-10-03T11:40:37Z",
             "owner": "mwatkins1970",
@@ -248,30 +265,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1269597477,
             "language": "Python",
             "last_commit": "2026-08-11T18:30:36Z",
             "owner": "brian-naughton",
             "repo": "verified-circuits",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Fmr.ai",
-          "description": "AI interpretability and explainability platform.",
-          "children": []
         }
       ],
       "title": "LLM Interpretability Tools"
-    },
-    {
-      "description": "Please see CONTRIBUTING and CODE-OF-CONDUCT for details.",
-      "items": [],
-      "title": "Contributing and Collaborating"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:27:49.165Z",
+    "last_updated": "2026-08-19T07:28:09.563Z",
     "original_repository": "JShollaj/awesome-llm-interpretability",
     "original_repository_sha": "e65c62b51bb9a11b4acbe4de9a5142da52a5affe",
     "enhanced_repository": "enhansome/enhansome-llm-interpretability",
