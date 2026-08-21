@@ -27,10 +27,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-20T03:35:34Z",
+            "last_commit": "2026-08-21T07:32:37Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11123
+            "stars": 11135
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 529394355,
             "language": "Python",
-            "last_commit": "2026-08-20T07:14:09Z",
+            "last_commit": "2026-08-21T06:39:37Z",
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3804
+            "stars": 3805
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-11-15T17:39:52Z",
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2886
+            "stars": 2896
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-04-20T05:32:37Z",
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 773
+            "stars": 774
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2024-07-20T15:42:39Z",
             "owner": "ai-safety-foundation",
             "repo": "sparse_autoencoder",
-            "stars": 303
+            "stars": 302
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2024-12-07T18:47:54Z",
             "owner": "FlorianDietz",
             "repo": "comgra",
-            "stars": 302
+            "stars": 301
           }
         },
         {
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:31:26.562Z",
+    "last_updated": "2026-08-21T07:32:53.971Z",
     "original_repository": "JShollaj/awesome-llm-interpretability",
     "original_repository_id": 734955917,
     "original_repository_sha": "e65c62b51bb9a11b4acbe4de9a5142da52a5affe",
