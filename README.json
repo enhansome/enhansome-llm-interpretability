@@ -15,7 +15,7 @@
             "last_commit": "2026-02-02T14:14:20Z",
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23823
+            "stars": 23821
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-21T07:32:37Z",
+            "last_commit": "2026-08-22T04:56:24Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11135
+            "stars": 11142
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 529394355,
             "language": "Python",
-            "last_commit": "2026-08-21T06:39:37Z",
+            "last_commit": "2026-08-22T03:57:30Z",
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3805
+            "stars": 3810
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-11-15T17:39:52Z",
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2896
+            "stars": 2902
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-04-20T05:32:37Z",
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 774
+            "stars": 775
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2023-05-16T21:57:01Z",
             "owner": "JetRunner",
             "repo": "SuperICL",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:32:53.971Z",
+    "last_updated": "2026-08-22T07:21:51.000Z",
     "original_repository": "JShollaj/awesome-llm-interpretability",
     "original_repository_id": 734955917,
     "original_repository_sha": "e65c62b51bb9a11b4acbe4de9a5142da52a5affe",
