@@ -15,7 +15,7 @@
             "last_commit": "2026-02-02T14:14:20Z",
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23821
+            "stars": 23820
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-24T07:29:34Z",
+            "last_commit": "2026-08-24T13:21:52Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11158
+            "stars": 11168
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-11-15T17:39:52Z",
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2907
+            "stars": 2909
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-04-20T05:32:37Z",
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 776
+            "stars": 777
           }
         },
         {
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:47:24.445Z",
+    "last_updated": "2026-08-24T14:13:29.885Z",
     "original_repository": "JShollaj/awesome-llm-interpretability",
     "original_repository_id": 734955917,
     "original_repository_sha": "e65c62b51bb9a11b4acbe4de9a5142da52a5affe",
