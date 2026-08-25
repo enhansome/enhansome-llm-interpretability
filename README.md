@@ -15,7 +15,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,174 | 🐛 897 | 🌐 Python | 📅 2026-08-25 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,176 | 🐛 897 | 🌐 Python | 📅 2026-08-25 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
 3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,820 | 🐛 12 | 🌐 Python | 📅 2026-08-24 - A Library for Mechanistic Interpretability of Generative Language Models.
 4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,909 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
 5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,102 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.

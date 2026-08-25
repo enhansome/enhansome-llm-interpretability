@@ -27,10 +27,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-25T05:59:08Z",
+            "last_commit": "2026-08-25T07:07:31Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11174
+            "stars": 11176
           }
         },
         {
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:17.548Z",
+    "last_updated": "2026-08-25T07:34:29.425Z",
     "original_repository": "JShollaj/awesome-llm-interpretability",
     "original_repository_id": 734955917,
     "original_repository_sha": "e65c62b51bb9a11b4acbe4de9a5142da52a5affe",
