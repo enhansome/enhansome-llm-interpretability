@@ -15,7 +15,7 @@
             "last_commit": "2026-02-02T14:14:20Z",
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23818
+            "stars": 23815
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-26T04:15:25Z",
+            "last_commit": "2026-08-27T08:27:36Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11198
+            "stars": 11212
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 529394355,
             "language": "Python",
-            "last_commit": "2026-08-26T06:46:52Z",
+            "last_commit": "2026-08-26T17:47:34Z",
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3822
+            "stars": 3827
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-11-15T17:39:52Z",
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2910
+            "stars": 2911
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2024-11-17T14:52:35Z",
             "owner": "FloomAI",
             "repo": "Floom",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -278,9 +278,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:35:34.285Z",
-    "original_repository": "JShollaj/awesome-llm-interpretability",
-    "original_repository_id": 734955917,
+    "last_updated": "2026-08-27T11:47:17.253Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 734955917,
+      "language": null,
+      "last_commit": "2026-08-11T01:22:02Z",
+      "owner": "JShollaj",
+      "repo": "awesome-llm-interpretability",
+      "stars": 1644
+    },
     "original_repository_sha": "e65c62b51bb9a11b4acbe4de9a5142da52a5affe",
     "enhanced_repository": "enhansome/enhansome-llm-interpretability",
     "enhanced_repository_description": null,
