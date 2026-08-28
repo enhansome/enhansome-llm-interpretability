@@ -15,9 +15,9 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,215 | 🐛 919 | 🌐 Python | 📅 2026-08-27 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
-3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,827 | 🐛 11 | 🌐 Python | 📅 2026-08-26 - A Library for Mechanistic Interpretability of Generative Language Models.
-4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,911 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,226 | 🐛 925 | 🌐 Python | 📅 2026-08-28 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,831 | 🐛 9 | 🌐 Python | 📅 2026-08-28 - A Library for Mechanistic Interpretability of Generative Language Models.
+4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,913 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
 5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,102 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,595 | 🐛 39 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
 7. [Automated Interpretability](https://github.com/openai/automated-interpretability) ⚠️ Archived - Code for automatically generating, simulating, and scoring explanations of neuron behavior.
@@ -26,7 +26,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 10. [Inseq](https://github.com/inseq-team/inseq) ⭐ 475 | 🐛 29 | 🌐 Python | 📅 2026-04-25 - Interpretability for sequence generation models.
 11. [Attention Analysis](https://github.com/clarkkev/attention-analysis) ⭐ 473 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2021-04-04 - Analyzing attention maps from BERT transformer.
 12. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) ⭐ 413 | 🐛 4 | 🌐 TeX | 📅 2025-03-02 - A carefully compiled list that summarizes the diverse functions of the attention heads.
-13. [Sparse Autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder) ⭐ 303 | 🐛 15 | 🌐 Python | 📅 2024-07-20 - Sparse Autoencoder for Mechanistic Interpretability.
+13. [Sparse Autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder) ⭐ 304 | 🐛 15 | 🌐 Python | 📅 2024-07-20 - Sparse Autoencoder for Mechanistic Interpretability.
 14. [Comgra](https://github.com/FlorianDietz/comgra) ⭐ 302 | 🐛 0 | 🌐 Python | 📅 2024-12-07 - Comgra helps you analyze and debug neural networks in pytorch.
 15. [SuperICL](https://github.com/JetRunner/SuperICL) ⭐ 131 | 🐛 0 | 🌐 Python | 📅 2023-05-16 - Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.
 16. [Floom](https://github.com/FloomAI/Floom) ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2024-11-17 AI gateway and marketplace for developers, enables streamlined integration of AI features into products
@@ -144,8 +144,8 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 
 ## Contributing and Collaborating
 
-Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretability/blob/master/CONTRIBUTING.md) ⭐ 1,644 | 🐛 6 | 📅 2026-08-11 and [CODE-OF-CONDUCT](https://github.com/JShollaj/awesome-llm-interpretability/blob/master/CODE-OF-CONDUCT.md) ⭐ 1,644 | 🐛 6 | 📅 2026-08-11 for details.
+Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretability/blob/master/CONTRIBUTING.md) ⭐ 1,645 | 🐛 6 | 📅 2026-08-11 and [CODE-OF-CONDUCT](https://github.com/JShollaj/awesome-llm-interpretability/blob/master/CODE-OF-CONDUCT.md) ⭐ 1,645 | 🐛 6 | 📅 2026-08-11 for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

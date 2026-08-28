@@ -15,8 +15,9 @@
             "last_commit": "2026-02-02T14:14:20Z",
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23815
-          }
+            "stars": 23814
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-27T17:50:09Z",
+            "last_commit": "2026-08-28T19:02:48Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11215
-          }
+            "stars": 11226
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 529394355,
             "language": "Python",
-            "last_commit": "2026-08-26T17:47:34Z",
+            "last_commit": "2026-08-28T16:11:09Z",
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3827
-          }
+            "stars": 3831
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2025-11-15T17:39:52Z",
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2911
-          }
+            "stars": 2913
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jalammar",
             "repo": "ecco",
             "stars": 2102
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "MeetKai",
             "repo": "functionary",
             "stars": 1595
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "openai",
             "repo": "automated-interpretability",
             "stars": 1081
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "kmeng01",
             "repo": "rome",
             "stars": 778
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "samuela",
             "repo": "git-re-basin",
             "stars": 515
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "inseq-team",
             "repo": "inseq",
             "stars": 475
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "clarkkev",
             "repo": "attention-analysis",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "IAAR-Shanghai",
             "repo": "Awesome-Attention-Heads",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -195,8 +207,9 @@
             "last_commit": "2024-07-20T15:42:39Z",
             "owner": "ai-safety-foundation",
             "repo": "sparse_autoencoder",
-            "stars": 303
-          }
+            "stars": 304
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "FlorianDietz",
             "repo": "comgra",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "JetRunner",
             "repo": "SuperICL",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "FloomAI",
             "repo": "Floom",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "mwatkins1970",
             "repo": "SpellGPT",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         },
         {
           "node_type": "item",
@@ -271,14 +288,15 @@
             "owner": "brian-naughton",
             "repo": "verified-circuits",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:06:53.877Z"
         }
       ],
       "title": "LLM Interpretability Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:56:38.381Z",
+    "last_updated": "2026-08-28T19:06:53.877Z",
     "original_repository_info": {
       "archived": false,
       "id": 734955917,
@@ -286,7 +304,7 @@
       "last_commit": "2026-08-11T01:22:02Z",
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1644
+      "stars": 1645
     },
     "original_repository_sha": "e65c62b51bb9a11b4acbe4de9a5142da52a5affe",
     "enhanced_repository": "enhansome/enhansome-llm-interpretability",
