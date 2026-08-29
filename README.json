@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+            "homepage": "https://vanna.ai/docs/",
             "id": 640317662,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-02T14:14:20Z",
+            "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23814
+            "stars": 23814,
+            "topics": [
+              "agent",
+              "ai",
+              "data-visualization",
+              "database",
+              "llm",
+              "rag",
+              "sql",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -26,12 +40,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Observability & Evaluation",
+            "homepage": "https://arize.com/docs/phoenix",
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-28T19:02:48Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:14:39Z",
+            "open_issues": 916,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11226
+            "stars": 11229,
+            "topics": [
+              "agents",
+              "ai-monitoring",
+              "ai-observability",
+              "aiengineering",
+              "anthropic",
+              "datasets",
+              "evals",
+              "langchain",
+              "llamaindex",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "smolagents"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -42,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for mechanistic interpretability of GPT-style language models",
+            "homepage": "https://transformerlensorg.github.io/TransformerLens/",
             "id": 529394355,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:11:09Z",
+            "open_issues": 9,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3831
+            "stars": 3831,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -58,12 +99,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The hub for EleutherAI's work on interpretability and learning dynamics",
+            "homepage": null,
             "id": 441778458,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-15T17:39:52Z",
+            "open_issues": 26,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2913
+            "stars": 2913,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -74,12 +120,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).",
+            "homepage": "https://ecco.readthedocs.io",
             "id": 310815780,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-15T19:08:06Z",
+            "open_issues": 38,
             "owner": "jalammar",
             "repo": "ecco",
-            "stars": 2102
+            "stars": 2103,
+            "topics": [
+              "explorables",
+              "language-models",
+              "natural-language-processing",
+              "nlp",
+              "pytorch",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -90,12 +148,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chat language model that can use tools and interpret the results",
+            "homepage": null,
             "id": 665299585,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-30T16:05:40Z",
+            "open_issues": 39,
             "owner": "MeetKai",
             "repo": "functionary",
-            "stars": 1595
+            "stars": 1595,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "function-calling",
+              "llm",
+              "ml",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -106,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 637994750,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-06T18:40:46Z",
+            "open_issues": 16,
             "owner": "openai",
             "repo": "automated-interpretability",
-            "stars": 1081
+            "stars": 1081,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -122,12 +198,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Locating and editing factual associations in GPT (NeurIPS 2022)",
+            "homepage": "https://rome.baulab.info",
             "id": 457995289,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-20T05:32:37Z",
+            "open_issues": 25,
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 778
+            "stars": 778,
+            "topics": [
+              "gpt",
+              "interpretability",
+              "pytorch",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -138,12 +224,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for \"Git Re-Basin: Merging Models modulo Permutation Symmetries\"",
+            "homepage": "https://arxiv.org/abs/2209.04836",
             "id": 536027100,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-07T23:50:34Z",
+            "open_issues": 7,
             "owner": "samuela",
             "repo": "git-re-basin",
-            "stars": 515
+            "stars": 515,
+            "topics": [
+              "deep-learning",
+              "deeplearning",
+              "jax",
+              "machine-learning",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -154,12 +251,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interpretability for sequence generation models 🐛 🔍",
+            "homepage": "https://inseq.org",
             "id": 406341006,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-25T15:29:40Z",
+            "open_issues": 29,
             "owner": "inseq-team",
             "repo": "inseq",
-            "stars": 475
+            "stars": 475,
+            "topics": [
+              "attribution-methods",
+              "captum",
+              "deep-learning",
+              "explainable-ai",
+              "generative-ai",
+              "huggingface",
+              "interpretability",
+              "language-generation",
+              "language-model",
+              "large-language-models",
+              "natural-language-processing",
+              "sequence-to-sequence",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -170,12 +286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 190811586,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-04-04T14:29:27Z",
+            "open_issues": 12,
             "owner": "clarkkev",
             "repo": "attention-analysis",
-            "stars": 473
+            "stars": 473,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -186,12 +307,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome repository & A comprehensive survey on interpretability of LLM attention heads.",
+            "homepage": "https://www.cell.com/patterns/fulltext/S2666-3899(25)00024-8",
             "id": 823700612,
             "language": "TeX",
+            "license": null,
             "last_commit": "2025-03-02T10:35:09Z",
+            "open_issues": 4,
             "owner": "IAAR-Shanghai",
             "repo": "Awesome-Attention-Heads",
-            "stars": 413
+            "stars": 413,
+            "topics": [
+              "attention-head-mining",
+              "attention-mechanism",
+              "awesome",
+              "chain-of-thought",
+              "circuit-analysis",
+              "cognitive-neuroscience",
+              "gpt",
+              "interpretability",
+              "large-language-models",
+              "llm",
+              "llm-reasoning",
+              "machine-psychology",
+              "research-paper",
+              "survey",
+              "transformer",
+              "visualization-tools"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -202,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sparse Autoencoder for Mechanistic Interpretability",
+            "homepage": "https://ai-safety-foundation.github.io/sparse_autoencoder/",
             "id": 710672651,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-20T15:42:39Z",
+            "open_issues": 15,
             "owner": "ai-safety-foundation",
             "repo": "sparse_autoencoder",
-            "stars": 304
+            "stars": 304,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -218,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to analyze and debug neural networks in pytorch. Use a GUI to traverse the computation graph and view the data from many different angles at the click of a button.",
+            "homepage": null,
             "id": 558837933,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-07T18:47:54Z",
+            "open_issues": 0,
             "owner": "FlorianDietz",
             "repo": "comgra",
-            "stars": 302
+            "stars": 302,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -234,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Small Models are Valuable Plug-ins for Large Language Models\"",
+            "homepage": "https://arxiv.org/abs/2305.08848",
             "id": 640959631,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-16T21:57:01Z",
+            "open_issues": 0,
             "owner": "JetRunner",
             "repo": "SuperICL",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -250,12 +408,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌊 Floom, \"The K8s for AI\", orchestrates & executes Generative AI pipelines, Empowering Developers and DevOps to focus on what matters.",
+            "homepage": "https://floom.ai",
             "id": 740874713,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-11-17T14:52:35Z",
+            "open_issues": 0,
             "owner": "FloomAI",
             "repo": "Floom",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "genai",
+              "generative-ai",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -266,12 +435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experimental tool to explore GPT-3's \"miraculous\" ability not only to spell its own token strings (it being a \"character blind\" model) but also to use spelling as a means to produce novel outputs triggered by various \"glitch tokens\" (\" SolidGoldMagikarp\", et al.)",
+            "homepage": null,
             "id": 654225084,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2023-10-03T11:40:37Z",
+            "open_issues": 0,
             "owner": "mwatkins1970",
             "repo": "SpellGPT",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         },
@@ -282,12 +456,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opening the black box, with proof — a kernel-checked mechanistic circuit for a learned transformer: Spec == Circuit == Model, verified on every input, re-checkable by anyone.",
+            "homepage": null,
             "id": 1269597477,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-11T18:30:36Z",
+            "open_issues": 0,
             "owner": "brian-naughton",
             "repo": "verified-circuits",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ai-safety",
+              "formal-verification",
+              "interpretability",
+              "lean4",
+              "mechanistic-interpretability",
+              "pytorch",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
         }
@@ -296,15 +483,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:06:53.877Z",
+    "last_updated": "2026-08-29T04:31:36.114Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
+      "homepage": null,
       "id": 734955917,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-11T01:22:02Z",
+      "open_issues": 6,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1645
+      "stars": 1645,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "e65c62b51bb9a11b4acbe4de9a5142da52a5affe",
     "enhanced_repository": "enhansome/enhansome-llm-interpretability",
