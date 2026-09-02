@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T06:41:17Z",
-            "open_issues": 943,
+            "last_commit": "2026-09-02T06:53:03Z",
+            "open_issues": 951,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11276,
+            "stars": 11292,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T12:06:17Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-02T01:07:10Z",
+            "open_issues": 11,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3836,
+            "stars": 3840,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -233,7 +233,7 @@
             "open_issues": 7,
             "owner": "samuela",
             "repo": "git-re-basin",
-            "stars": 515,
+            "stars": 516,
             "topics": [
               "deep-learning",
               "deeplearning",
@@ -354,7 +354,7 @@
             "open_issues": 15,
             "owner": "ai-safety-foundation",
             "repo": "sparse_autoencoder",
-            "stars": 304,
+            "stars": 305,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -375,7 +375,7 @@
             "open_issues": 0,
             "owner": "FlorianDietz",
             "repo": "comgra",
-            "stars": 302,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:10:07.911Z",
+    "last_updated": "2026-09-02T11:47:39.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
