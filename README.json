@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T11:30:57Z",
-            "open_issues": 968,
+            "last_commit": "2026-09-04T06:18:37Z",
+            "open_issues": 967,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11306,
+            "stars": 11320,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -84,10 +84,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-03T10:19:39Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3843,
+            "stars": 3849,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2921,
+            "stars": 2920,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -186,7 +186,7 @@
             "open_issues": 16,
             "owner": "openai",
             "repo": "automated-interpretability",
-            "stars": 1081,
+            "stars": 1080,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -204,7 +204,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-04-20T05:32:37Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "kmeng01",
             "repo": "rome",
             "stars": 778,
@@ -260,7 +260,7 @@
             "open_issues": 29,
             "owner": "inseq-team",
             "repo": "inseq",
-            "stars": 475,
+            "stars": 476,
             "topics": [
               "attribution-methods",
               "captum",
@@ -295,7 +295,7 @@
             "open_issues": 12,
             "owner": "clarkkev",
             "repo": "attention-analysis",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:47:49.679Z",
+    "last_updated": "2026-09-04T11:49:03.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
