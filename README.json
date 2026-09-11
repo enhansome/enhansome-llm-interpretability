@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T06:20:22Z",
-            "open_issues": 968,
+            "last_commit": "2026-09-11T05:46:23Z",
+            "open_issues": 971,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11408,
+            "stars": 11416,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T18:54:50Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-11T05:29:21Z",
+            "open_issues": 13,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3864,
+            "stars": 3867,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2924,
+            "stars": 2926,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -207,7 +207,7 @@
             "open_issues": 26,
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 778,
+            "stars": 779,
             "topics": [
               "gpt",
               "interpretability",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:54:30.705Z",
+    "last_updated": "2026-09-11T11:53:39.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -495,7 +495,7 @@
       "open_issues": 6,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1646,
+      "stars": 1645,
       "topics": [
         "awesome",
         "awesome-list"
