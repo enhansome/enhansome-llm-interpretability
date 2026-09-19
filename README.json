@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23817,
+            "stars": 23816,
             "topics": [
               "agent",
               "ai",
@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T09:47:47Z",
-            "open_issues": 1004,
+            "last_commit": "2026-09-19T07:21:00Z",
+            "open_issues": 1017,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11532,
+            "stars": 11540,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T17:13:43Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-18T23:09:12Z",
+            "open_issues": 15,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3883,
+            "stars": 3890,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2935,
+            "stars": 2936,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:55:57.012Z",
+    "last_updated": "2026-09-19T11:40:37.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -492,7 +492,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-11T01:22:02Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
       "stars": 1646,
