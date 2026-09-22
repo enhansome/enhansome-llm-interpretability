@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23815,
+            "stars": 23813,
             "topics": [
               "agent",
               "ai",
@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T13:17:19Z",
-            "open_issues": 1030,
+            "last_commit": "2026-09-22T06:19:40Z",
+            "open_issues": 1023,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11562,
+            "stars": 11572,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T23:09:12Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-22T03:20:44Z",
+            "open_issues": 17,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3896,
+            "stars": 3898,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2941,
+            "stars": 2942,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -295,7 +295,7 @@
             "open_issues": 12,
             "owner": "clarkkev",
             "repo": "attention-analysis",
-            "stars": 475,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T13:25:45.823Z",
+    "last_updated": "2026-09-22T12:10:16.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
