@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T11:16:29Z",
-            "open_issues": 1011,
+            "last_commit": "2026-09-24T11:16:23Z",
+            "open_issues": 1031,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11585,
+            "stars": 11600,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T03:41:44Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-24T03:59:35Z",
+            "open_issues": 14,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3899,
+            "stars": 3903,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2943,
+            "stars": 2945,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:22:16.458Z",
+    "last_updated": "2026-09-24T12:21:53.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
