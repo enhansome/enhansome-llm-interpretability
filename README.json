@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T11:16:23Z",
-            "open_issues": 1031,
+            "last_commit": "2026-09-25T11:16:26Z",
+            "open_issues": 1070,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11600,
+            "stars": 11610,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T03:59:35Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-24T12:41:42Z",
+            "open_issues": 17,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3903,
+            "stars": 3908,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -157,7 +157,7 @@
             "open_issues": 39,
             "owner": "MeetKai",
             "repo": "functionary",
-            "stars": 1596,
+            "stars": 1595,
             "topics": [
               "agents",
               "ai",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:21:53.417Z",
+    "last_updated": "2026-09-25T12:22:16.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -495,7 +495,7 @@
       "open_issues": 7,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1648,
+      "stars": 1649,
       "topics": [
         "awesome",
         "awesome-list"
