@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23810,
+            "stars": 23809,
             "topics": [
               "agent",
               "ai",
@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T14:34:07Z",
-            "open_issues": 1103,
+            "last_commit": "2026-09-29T13:22:45Z",
+            "open_issues": 1034,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11644,
+            "stars": 11652,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T14:32:27Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-28T17:50:51Z",
+            "open_issues": 26,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3916,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -233,7 +233,7 @@
             "open_issues": 7,
             "owner": "samuela",
             "repo": "git-re-basin",
-            "stars": 516,
+            "stars": 517,
             "topics": [
               "deep-learning",
               "deeplearning",
@@ -316,7 +316,7 @@
             "open_issues": 4,
             "owner": "IAAR-Shanghai",
             "repo": "Awesome-Attention-Heads",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "attention-head-mining",
               "attention-mechanism",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T14:37:42.071Z",
+    "last_updated": "2026-09-29T13:28:42.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
