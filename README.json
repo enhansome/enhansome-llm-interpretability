@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23811,
+            "stars": 23812,
             "topics": [
               "agent",
               "ai",
@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T13:14:59Z",
-            "open_issues": 1046,
+            "last_commit": "2026-10-02T13:12:28Z",
+            "open_issues": 1065,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11669,
+            "stars": 11680,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T22:58:16Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-02T04:15:34Z",
+            "open_issues": 21,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3928,
+            "stars": 3932,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2951,
+            "stars": 2952,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -295,7 +295,7 @@
             "open_issues": 12,
             "owner": "clarkkev",
             "repo": "attention-analysis",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -375,7 +375,7 @@
             "open_issues": 0,
             "owner": "FlorianDietz",
             "repo": "comgra",
-            "stars": 301,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:58:53.637Z",
+    "last_updated": "2026-10-02T13:17:00.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
