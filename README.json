@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23813,
+            "stars": 23814,
             "topics": [
               "agent",
               "ai",
@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T08:31:43Z",
-            "open_issues": 1106,
+            "last_commit": "2026-10-05T15:08:22Z",
+            "open_issues": 1100,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11703,
+            "stars": 11714,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:18:23Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-05T15:12:38Z",
+            "open_issues": 21,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3935,
+            "stars": 3939,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -157,7 +157,7 @@
             "open_issues": 39,
             "owner": "MeetKai",
             "repo": "functionary",
-            "stars": 1595,
+            "stars": 1594,
             "topics": [
               "agents",
               "ai",
@@ -257,7 +257,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-04-25T15:29:40Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "inseq-team",
             "repo": "inseq",
             "stars": 476,
@@ -316,7 +316,7 @@
             "open_issues": 4,
             "owner": "IAAR-Shanghai",
             "repo": "Awesome-Attention-Heads",
-            "stars": 416,
+            "stars": 415,
             "topics": [
               "attention-head-mining",
               "attention-mechanism",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:54:02.367Z",
+    "last_updated": "2026-10-05T15:21:19.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -495,7 +495,7 @@
       "open_issues": 7,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1650,
+      "stars": 1651,
       "topics": [
         "awesome",
         "awesome-list"
