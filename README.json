@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23814,
+            "stars": 23817,
             "topics": [
               "agent",
               "ai",
@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T15:08:22Z",
-            "open_issues": 1100,
+            "last_commit": "2026-10-06T03:08:07Z",
+            "open_issues": 1099,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11714,
+            "stars": 11720,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T15:12:38Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-05T15:43:42Z",
+            "open_issues": 20,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3939,
+            "stars": 3945,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -260,7 +260,7 @@
             "open_issues": 30,
             "owner": "inseq-team",
             "repo": "inseq",
-            "stars": 476,
+            "stars": 477,
             "topics": [
               "attribution-methods",
               "captum",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T15:21:19.798Z",
+    "last_updated": "2026-10-06T10:50:04.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
