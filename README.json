@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23818,
+            "stars": 23821,
             "topics": [
               "agent",
               "ai",
@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T13:47:27Z",
-            "open_issues": 1105,
+            "last_commit": "2026-10-08T13:16:52Z",
+            "open_issues": 1116,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11741,
+            "stars": 11751,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T04:00:23Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-08T00:53:12Z",
+            "open_issues": 25,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3946,
+            "stars": 3950,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2957,
+            "stars": 2958,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -157,7 +157,7 @@
             "open_issues": 39,
             "owner": "MeetKai",
             "repo": "functionary",
-            "stars": 1594,
+            "stars": 1593,
             "topics": [
               "agents",
               "ai",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:01:21.224Z",
+    "last_updated": "2026-10-08T14:07:45.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -495,7 +495,7 @@
       "open_issues": 7,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1652,
+      "stars": 1653,
       "topics": [
         "awesome",
         "awesome-list"

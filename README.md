@@ -15,11 +15,11 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,741 | 🐛 1,105 | 🌐 Python | 📅 2026-10-07 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
-3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,946 | 🐛 26 | 🌐 Python | 📅 2026-10-07 - A Library for Mechanistic Interpretability of Generative Language Models.
-4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,957 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,751 | 🐛 1,116 | 🌐 Python | 📅 2026-10-08 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,950 | 🐛 25 | 🌐 Python | 📅 2026-10-08 - A Library for Mechanistic Interpretability of Generative Language Models.
+4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,958 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
 5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,102 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
-6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,594 | 🐛 39 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
+6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,593 | 🐛 39 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
 7. [Automated Interpretability](https://github.com/openai/automated-interpretability) ⚠️ Archived - Code for automatically generating, simulating, and scoring explanations of neuron behavior.
 8. [Rome](https://github.com/kmeng01/rome) ⭐ 780 | 🐛 26 | 🌐 Python | 📅 2024-04-20 - Locating and editing factual associations in GPT.
 9. [Git Re-Basin](https://github.com/samuela/git-re-basin) ⭐ 517 | 🐛 7 | 🌐 Python | 📅 2023-03-07 - Code release for "Git Re-Basin: Merging Models modulo Permutation Symmetries.”
@@ -148,4 +148,4 @@ Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretabili
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
