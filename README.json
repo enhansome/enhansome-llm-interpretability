@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23824,
+            "stars": 23822,
             "topics": [
               "agent",
               "ai",
@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T13:22:29Z",
-            "open_issues": 1108,
+            "last_commit": "2026-10-10T11:15:14Z",
+            "open_issues": 1095,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11768,
+            "stars": 11774,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T13:52:50Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-10T06:07:02Z",
+            "open_issues": 16,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3955,
+            "stars": 3958,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -207,7 +207,7 @@
             "open_issues": 26,
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "gpt",
               "interpretability",
@@ -316,7 +316,7 @@
             "open_issues": 4,
             "owner": "IAAR-Shanghai",
             "repo": "Awesome-Attention-Heads",
-            "stars": 415,
+            "stars": 414,
             "topics": [
               "attention-head-mining",
               "attention-mechanism",
@@ -354,7 +354,7 @@
             "open_issues": 15,
             "owner": "ai-safety-foundation",
             "repo": "sparse_autoencoder",
-            "stars": 307,
+            "stars": 308,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:55:37.023Z",
+    "last_updated": "2026-10-10T13:07:25.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
