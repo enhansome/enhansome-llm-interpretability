@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T11:15:14Z",
-            "open_issues": 1095,
+            "last_commit": "2026-10-11T13:33:35Z",
+            "open_issues": 1094,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11774,
+            "stars": 11785,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -84,10 +84,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-10T06:07:02Z",
-            "open_issues": 16,
+            "open_issues": 22,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3958,
+            "stars": 3960,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -108,7 +108,7 @@
             "open_issues": 27,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2958,
+            "stars": 2959,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -186,7 +186,7 @@
             "open_issues": 16,
             "owner": "openai",
             "repo": "automated-interpretability",
-            "stars": 1081,
+            "stars": 1082,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -207,7 +207,7 @@
             "open_issues": 26,
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 782,
+            "stars": 783,
             "topics": [
               "gpt",
               "interpretability",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:07:25.946Z",
+    "last_updated": "2026-10-11T13:36:08.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
