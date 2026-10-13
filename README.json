@@ -45,11 +45,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T15:53:53Z",
-            "open_issues": 1091,
+            "last_commit": "2026-10-13T14:09:40Z",
+            "open_issues": 1165,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11808,
+            "stars": 11819,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -83,11 +83,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T15:42:18Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-13T14:04:41Z",
+            "open_issues": 15,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3963,
+            "stars": 3962,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -108,7 +108,7 @@
             "open_issues": 27,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2960,
+            "stars": 2961,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -257,7 +257,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-07T07:33:02Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "inseq-team",
             "repo": "inseq",
             "stars": 477,
@@ -375,7 +375,7 @@
             "open_issues": 0,
             "owner": "FlorianDietz",
             "repo": "comgra",
-            "stars": 302,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:13:17.082Z",
+    "last_updated": "2026-10-13T14:38:35.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
