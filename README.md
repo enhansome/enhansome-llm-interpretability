@@ -12,19 +12,19 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 
 ### LLM Interpretability Tools
 
-* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 286 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
+* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 280 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
   *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,934 | 🐛 1,170 | 🌐 Python | 📅 2026-10-21 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
-3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,987 | 🐛 18 | 🌐 Python | 📅 2026-10-21 - A Library for Mechanistic Interpretability of Generative Language Models.
-4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,972 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,950 | 🐛 1,213 | 🌐 Python | 📅 2026-10-22 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,988 | 🐛 10 | 🌐 Python | 📅 2026-10-21 - A Library for Mechanistic Interpretability of Generative Language Models.
+4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,973 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
 5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,104 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,593 | 🐛 38 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
 7. [Automated Interpretability](https://github.com/openai/automated-interpretability) ⚠️ Archived - Code for automatically generating, simulating, and scoring explanations of neuron behavior.
 8. [Rome](https://github.com/kmeng01/rome) ⭐ 785 | 🐛 26 | 🌐 Python | 📅 2024-04-20 - Locating and editing factual associations in GPT.
 9. [Git Re-Basin](https://github.com/samuela/git-re-basin) ⭐ 517 | 🐛 7 | 🌐 Python | 📅 2023-03-07 - Code release for "Git Re-Basin: Merging Models modulo Permutation Symmetries.”
-10. [Inseq](https://github.com/inseq-team/inseq) ⭐ 477 | 🐛 28 | 🌐 Python | 📅 2026-10-07 - Interpretability for sequence generation models.
+10. [Inseq](https://github.com/inseq-team/inseq) ⭐ 477 | 🐛 29 | 🌐 Python | 📅 2026-10-22 - Interpretability for sequence generation models.
 11. [Attention Analysis](https://github.com/clarkkev/attention-analysis) ⭐ 475 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2021-04-04 - Analyzing attention maps from BERT transformer.
 12. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) ⭐ 414 | 🐛 4 | 🌐 TeX | 📅 2025-03-02 - A carefully compiled list that summarizes the diverse functions of the attention heads.
 13. [Sparse Autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder) ⭐ 308 | 🐛 15 | 🌐 Python | 📅 2024-07-20 - Sparse Autoencoder for Mechanistic Interpretability.
@@ -104,6 +104,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 55. [DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness](https://arxiv.org/abs/2601.14210) - Trains a lightweight probe on LLM intermediate hidden states to detect hallucinations, exploiting uncertainty signals encoded in middle layers that are lost in the final token projection.
 56. [Phase Transitions in Large Language Models and the O(N) Model](https://arxiv.org/abs/2501.16241) - Recasts the Transformer as an O(N) spin model from statistical physics, finds two phase transitions (one in generation temperature, one in parameter count), and observes that models above \~7B parameters recognize when they are producing nonsense.
 57. [Token Thermodynamics](https://doi.org/10.5281/zenodo.23219064) - Shows that softmax sampling is exactly a Boltzmann distribution, derives a closed-form melting temperature for the next-token distribution across 12 models, and tests it as a hallucination signal.
+58. [Correcting Mean Bias in Text Embeddings: A Refined Renormalization with Training-Free Improvements on MMTEB](https://arxiv.org/abs/2511.11041) - Shows that sentence-embedding models add a near-constant mean vector to every output. Projecting this direction out needs no training and improves classification on 29 of 38 MMTEB models.
 
 ***
 
@@ -151,4 +152,4 @@ Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretabili
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
