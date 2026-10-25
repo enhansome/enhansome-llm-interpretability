@@ -12,12 +12,12 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 
 ### LLM Interpretability Tools
 
-* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 281 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
+* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 282 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
   *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,980 | 🐛 1,225 | 🌐 Python | 📅 2026-10-24 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
-3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,991 | 🐛 11 | 🌐 Python | 📅 2026-10-23 - A Library for Mechanistic Interpretability of Generative Language Models.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,995 | 🐛 1,227 | 🌐 Python | 📅 2026-10-25 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 3,994 | 🐛 14 | 🌐 Python | 📅 2026-10-23 - A Library for Mechanistic Interpretability of Generative Language Models.
 4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,975 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
 5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,104 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,593 | 🐛 38 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
@@ -29,17 +29,18 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 12. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) ⭐ 414 | 🐛 4 | 🌐 TeX | 📅 2025-03-02 - A carefully compiled list that summarizes the diverse functions of the attention heads.
 13. [Sparse Autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder) ⭐ 308 | 🐛 15 | 🌐 Python | 📅 2024-07-20 - Sparse Autoencoder for Mechanistic Interpretability.
 14. [Comgra](https://github.com/FlorianDietz/comgra) ⭐ 303 | 🐛 0 | 🌐 Python | 📅 2024-12-07 - Comgra helps you analyze and debug neural networks in pytorch.
-15. [SuperICL](https://github.com/JetRunner/SuperICL) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2023-05-16 - Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.
-16. [Floom](https://github.com/FloomAI/Floom) ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2024-11-17 AI gateway and marketplace for developers, enables streamlined integration of AI features into products
-17. [SpellGPT](https://github.com/mwatkins1970/SpellGPT) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-10-03 - Explores GPT-3’s ability to spell own token strings.
-18. [verified-circuits](https://github.com/brian-naughton/verified-circuits) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-11 - End-to-end, independently-checkable mechanistic interpretability for a learned tiny transformer (Dyck-1): a Lean 4 proof of circuit↔spec equivalence plus a torch-free interval-arithmetic certificate that the model implements the circuit on every input — a re-verifiable Spec == Circuit == Model over a complete finite task.
-19. [Circuit Lantern](https://github.com/IlyaKhalafi/CircuitLantern) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18 - A local web app for transformer activation tracing, causal interventions, and sparse autoencoder experiments.
-20. [The Learning Interpretability Tool](https://pair-code.github.io/lit/) - an open-source platform for visualization and understanding of ML models, supports classification, refression, and generative models (text & image data); includes saliency methods, attention attribution, counter-facturals, TCAV, embedding visualizations, and facets style data analysis.
-21. [Fmr.ai](https://github.com/BizarreCake/fmr.ai) - AI interpretability and explainability platform.
-22. [Neuron Viewer](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html) - Tool for viewing neuron activations and explanations.
-23. [LLM Visualization](https://bbycroft.net/llm) - Visualizing LLMs in low level.
-24. [Copy Suppression](https://copy-suppression.streamlit.app/) - Designed to help explore different prompts for GPT-2 Small, as part of a research project regarding copy-suppression in LLMs.
-25. [TransformerViz](https://transformervis.github.io/transformervis/) - Interative tool to visualize transformer model by its latent space.
+15. [PTS](https://github.com/codelion/pts) ⭐ 160 | 🐛 1 | 🌐 Python | 📅 2026-09-24 - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
+16. [SuperICL](https://github.com/JetRunner/SuperICL) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2023-05-16 - Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.
+17. [Floom](https://github.com/FloomAI/Floom) ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2024-11-17 AI gateway and marketplace for developers, enables streamlined integration of AI features into products
+18. [SpellGPT](https://github.com/mwatkins1970/SpellGPT) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-10-03 - Explores GPT-3’s ability to spell own token strings.
+19. [verified-circuits](https://github.com/brian-naughton/verified-circuits) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-11 - End-to-end, independently-checkable mechanistic interpretability for a learned tiny transformer (Dyck-1): a Lean 4 proof of circuit↔spec equivalence plus a torch-free interval-arithmetic certificate that the model implements the circuit on every input — a re-verifiable Spec == Circuit == Model over a complete finite task.
+20. [Circuit Lantern](https://github.com/IlyaKhalafi/CircuitLantern) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18 - A local web app for transformer activation tracing, causal interventions, and sparse autoencoder experiments.
+21. [The Learning Interpretability Tool](https://pair-code.github.io/lit/) - an open-source platform for visualization and understanding of ML models, supports classification, refression, and generative models (text & image data); includes saliency methods, attention attribution, counter-facturals, TCAV, embedding visualizations, and facets style data analysis.
+22. [Fmr.ai](https://github.com/BizarreCake/fmr.ai) - AI interpretability and explainability platform.
+23. [Neuron Viewer](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html) - Tool for viewing neuron activations and explanations.
+24. [LLM Visualization](https://bbycroft.net/llm) - Visualizing LLMs in low level.
+25. [Copy Suppression](https://copy-suppression.streamlit.app/) - Designed to help explore different prompts for GPT-2 Small, as part of a research project regarding copy-suppression in LLMs.
+26. [TransformerViz](https://transformervis.github.io/transformervis/) - Interative tool to visualize transformer model by its latent space.
 
 ***
 
@@ -105,6 +106,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 56. [Phase Transitions in Large Language Models and the O(N) Model](https://arxiv.org/abs/2501.16241) - Recasts the Transformer as an O(N) spin model from statistical physics, finds two phase transitions (one in generation temperature, one in parameter count), and observes that models above \~7B parameters recognize when they are producing nonsense.
 57. [Token Thermodynamics](https://doi.org/10.5281/zenodo.23219064) - Shows that softmax sampling is exactly a Boltzmann distribution, derives a closed-form melting temperature for the next-token distribution across 12 models, and tests it as a hallucination signal.
 58. [Correcting Mean Bias in Text Embeddings: A Refined Renormalization with Training-Free Improvements on MMTEB](https://arxiv.org/abs/2511.11041) - Shows that sentence-embedding models add a near-constant mean vector to every output. Projecting this direction out needs no training and improves classification on 29 of 38 MMTEB models.
+59. [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543) - Activation analysis finds that a subset of mid-to-deep FFN layers is disproportionately activated when an LLM ignores relevant retrieved context in favor of its parametric memory; suppressing these FFNs makes generation more faithful to the context (NeurIPS 2025).
 
 ***
 
@@ -152,4 +154,4 @@ Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretabili
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

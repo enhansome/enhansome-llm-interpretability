@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T06:18:07Z",
-            "open_issues": 1225,
+            "last_commit": "2026-10-25T12:00:40Z",
+            "open_issues": 1227,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11980,
+            "stars": 11995,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -121,10 +121,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-23T21:12:39Z",
-            "open_issues": 11,
+            "open_issues": 14,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3991,
+            "stars": 3994,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -419,6 +419,48 @@
         },
         {
           "node_type": "item",
+          "title": "PTS",
+          "description": "Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pivotal Token Search",
+            "homepage": null,
+            "id": 976377835,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-24T09:15:12Z",
+            "open_issues": 1,
+            "owner": "codelion",
+            "repo": "pts",
+            "stars": 160,
+            "topics": [
+              "dataset-generation",
+              "direct-preference-optimization",
+              "dpo",
+              "llm",
+              "llm-inference",
+              "llm-steering",
+              "mech-interp",
+              "phi-4",
+              "phi-4-mini",
+              "phi4",
+              "phi4-mini",
+              "pivotal-token-search",
+              "pivotal-tokens",
+              "reasoning-agent",
+              "reasoning-language-models",
+              "reasoning-models",
+              "sae",
+              "sparse-autoencoder",
+              "steering-vector",
+              "tokens"
+            ]
+          },
+          "first_seen": "2026-10-25T12:09:45.810Z"
+        },
+        {
+          "node_type": "item",
           "title": "SuperICL",
           "description": "Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.",
           "children": [],
@@ -546,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:41:06.813Z",
+    "last_updated": "2026-10-25T12:09:45.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -554,8 +596,8 @@
       "id": 734955917,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-22T01:53:21Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-25T05:16:02Z",
+      "open_issues": 6,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
       "stars": 1655,
@@ -564,7 +606,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "dcaaa5125554f318e8138e5e950988327ba8c755",
+    "original_repository_sha": "273c11a49f2cf9fc4a02929bf7c3db45c9c7054e",
     "enhanced_repository": "enhansome/enhansome-llm-interpretability",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Interpretability with stars"
