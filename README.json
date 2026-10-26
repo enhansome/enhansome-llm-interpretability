@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23813,
+            "stars": 23812,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T12:00:40Z",
-            "open_issues": 1227,
+            "last_commit": "2026-10-26T07:47:19Z",
+            "open_issues": 1228,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11995,
+            "stars": 12008,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -124,7 +124,7 @@
             "open_issues": 14,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 3994,
+            "stars": 3999,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 27,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2975,
+            "stars": 2976,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -244,7 +244,7 @@
             "open_issues": 26,
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 785,
+            "stars": 786,
             "topics": [
               "gpt",
               "interpretability",
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:09:45.810Z",
+    "last_updated": "2026-10-26T13:39:33.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -600,7 +600,7 @@
       "open_issues": 6,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1655,
+      "stars": 1657,
       "topics": [
         "awesome",
         "awesome-list"
