@@ -16,8 +16,8 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
   *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,043 | 🐛 1,221 | 🌐 Python | 📅 2026-10-28 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
-3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 4,005 | 🐛 8 | 🌐 Python | 📅 2026-10-27 - A Library for Mechanistic Interpretability of Generative Language Models.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,056 | 🐛 1,203 | 🌐 Python | 📅 2026-10-29 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 4,010 | 🐛 10 | 🌐 Python | 📅 2026-10-27 - A Library for Mechanistic Interpretability of Generative Language Models.
 4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,978 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
 5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,104 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,593 | 🐛 38 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
@@ -29,7 +29,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 12. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) ⭐ 414 | 🐛 4 | 🌐 TeX | 📅 2025-03-02 - A carefully compiled list that summarizes the diverse functions of the attention heads.
 13. [Sparse Autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder) ⭐ 308 | 🐛 15 | 🌐 Python | 📅 2024-07-20 - Sparse Autoencoder for Mechanistic Interpretability.
 14. [Comgra](https://github.com/FlorianDietz/comgra) ⭐ 303 | 🐛 0 | 🌐 Python | 📅 2024-12-07 - Comgra helps you analyze and debug neural networks in pytorch.
-15. [PTS](https://github.com/codelion/pts) ⭐ 160 | 🐛 1 | 🌐 Python | 📅 2026-09-24 - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
+15. [PTS](https://github.com/codelion/pts) ⭐ 160 | 🐛 2 | 🌐 Python | 📅 2026-10-29 - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
 16. [SuperICL](https://github.com/JetRunner/SuperICL) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2023-05-16 - Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.
 17. [Floom](https://github.com/FloomAI/Floom) ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2024-11-17 AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 18. [SpellGPT](https://github.com/mwatkins1970/SpellGPT) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-10-03 - Explores GPT-3’s ability to spell own token strings.
@@ -107,6 +107,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 57. [Token Thermodynamics](https://doi.org/10.5281/zenodo.23219064) - Shows that softmax sampling is exactly a Boltzmann distribution, derives a closed-form melting temperature for the next-token distribution across 12 models, and tests it as a hallucination signal.
 58. [Correcting Mean Bias in Text Embeddings: A Refined Renormalization with Training-Free Improvements on MMTEB](https://arxiv.org/abs/2511.11041) - Shows that sentence-embedding models add a near-constant mean vector to every output. Projecting this direction out needs no training and improves classification on 29 of 38 MMTEB models.
 59. [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543) - Activation analysis finds that a subset of mid-to-deep FFN layers is disproportionately activated when an LLM ignores relevant retrieved context in favor of its parametric memory; suppressing these FFNs makes generation more faithful to the context (NeurIPS 2025).
+60. [Echoes as Anchors: Probabilistic Costs and Attention Refocusing in LLM Reasoning](https://arxiv.org/abs/2602.06600) - Studies why reasoning models restate the question at the start of their chain-of-thought (Echo of Prompt): reinserting an echo into failed GSM8K traces raises exact match by 10.4 and 7.9 points for DeepSeek-R1-Distill-Llama-8B and Qwen3-8B but not for a base model, and layer-wise attention analysis shows higher answer-to-answer-prefix attention in middle layers (ICLR 2026).
 
 ***
 
@@ -154,4 +155,4 @@ Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretabili
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

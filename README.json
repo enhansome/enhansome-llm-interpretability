@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23805,
+            "stars": 23804,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T13:13:00Z",
-            "open_issues": 1221,
+            "last_commit": "2026-10-29T13:43:58Z",
+            "open_issues": 1203,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12043,
+            "stars": 12056,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -121,10 +121,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-27T13:28:13Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4005,
+            "stars": 4010,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -429,8 +429,8 @@
             "id": 976377835,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T09:15:12Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-29T09:22:56Z",
+            "open_issues": 2,
             "owner": "codelion",
             "repo": "pts",
             "stars": 160,
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:38:07.478Z",
+    "last_updated": "2026-10-29T13:47:45.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -596,8 +596,8 @@
       "id": 734955917,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-25T05:16:02Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-29T13:20:13Z",
+      "open_issues": 6,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
       "stars": 1658,
@@ -606,7 +606,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "273c11a49f2cf9fc4a02929bf7c3db45c9c7054e",
+    "original_repository_sha": "05bda165d6ecbc2143f4061106af86936d24f5ea",
     "enhanced_repository": "enhansome/enhansome-llm-interpretability",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Interpretability with stars"
