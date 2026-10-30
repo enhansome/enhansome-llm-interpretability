@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T13:43:58Z",
-            "open_issues": 1203,
+            "last_commit": "2026-10-30T13:14:34Z",
+            "open_issues": 1214,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12056,
+            "stars": 12075,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T13:28:13Z",
+            "last_commit": "2026-10-29T15:13:15Z",
             "open_issues": 10,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4010,
+            "stars": 4017,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 27,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2978,
+            "stars": 2979,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -270,7 +270,7 @@
             "open_issues": 7,
             "owner": "samuela",
             "repo": "git-re-basin",
-            "stars": 517,
+            "stars": 518,
             "topics": [
               "deep-learning",
               "deeplearning",
@@ -429,7 +429,7 @@
             "id": 976377835,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T09:22:56Z",
+            "last_commit": "2026-10-30T13:13:48Z",
             "open_issues": 2,
             "owner": "codelion",
             "repo": "pts",
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T13:47:45.267Z",
+    "last_updated": "2026-10-30T13:41:05.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -597,10 +597,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-29T13:20:13Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1658,
+      "stars": 1659,
       "topics": [
         "awesome",
         "awesome-list"
