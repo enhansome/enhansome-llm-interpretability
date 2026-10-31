@@ -12,14 +12,14 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 
 ### LLM Interpretability Tools
 
-* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 287 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
+* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 289 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
   *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,075 | 🐛 1,214 | 🌐 Python | 📅 2026-10-30 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
-3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 4,017 | 🐛 10 | 🌐 Python | 📅 2026-10-29 - A Library for Mechanistic Interpretability of Generative Language Models.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,080 | 🐛 1,220 | 🌐 Python | 📅 2026-10-31 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 4,019 | 🐛 9 | 🌐 Python | 📅 2026-10-30 - A Library for Mechanistic Interpretability of Generative Language Models.
 4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,979 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
-5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,104 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
+5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,105 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,593 | 🐛 38 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
 7. [Automated Interpretability](https://github.com/openai/automated-interpretability) ⚠️ Archived - Code for automatically generating, simulating, and scoring explanations of neuron behavior.
 8. [Rome](https://github.com/kmeng01/rome) ⭐ 786 | 🐛 26 | 🌐 Python | 📅 2024-04-20 - Locating and editing factual associations in GPT.
@@ -29,7 +29,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 12. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) ⭐ 414 | 🐛 4 | 🌐 TeX | 📅 2025-03-02 - A carefully compiled list that summarizes the diverse functions of the attention heads.
 13. [Sparse Autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder) ⭐ 308 | 🐛 15 | 🌐 Python | 📅 2024-07-20 - Sparse Autoencoder for Mechanistic Interpretability.
 14. [Comgra](https://github.com/FlorianDietz/comgra) ⭐ 303 | 🐛 0 | 🌐 Python | 📅 2024-12-07 - Comgra helps you analyze and debug neural networks in pytorch.
-15. [PTS](https://github.com/codelion/pts) ⭐ 160 | 🐛 2 | 🌐 Python | 📅 2026-10-30 - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
+15. [PTS](https://github.com/codelion/pts) ⭐ 160 | 🐛 2 | 🌐 Python | 📅 2026-10-31 - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
 16. [SuperICL](https://github.com/JetRunner/SuperICL) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2023-05-16 - Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.
 17. [Floom](https://github.com/FloomAI/Floom) ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2024-11-17 AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 18. [SpellGPT](https://github.com/mwatkins1970/SpellGPT) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-10-03 - Explores GPT-3’s ability to spell own token strings.
@@ -155,4 +155,4 @@ Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretabili
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
