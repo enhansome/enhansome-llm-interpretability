@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 292,
+            "stars": 295,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23802,
+            "stars": 23804,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T12:18:05Z",
-            "open_issues": 1220,
+            "last_commit": "2026-11-02T16:31:06Z",
+            "open_issues": 1216,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12091,
+            "stars": 12103,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T15:10:53Z",
+            "last_commit": "2026-11-02T15:35:40Z",
             "open_issues": 13,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4024,
+            "stars": 4031,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 27,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2980,
+            "stars": 2981,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -244,7 +244,7 @@
             "open_issues": 26,
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 786,
+            "stars": 787,
             "topics": [
               "gpt",
               "interpretability",
@@ -429,8 +429,8 @@
             "id": 976377835,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T00:07:04Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T07:30:50Z",
+            "open_issues": 1,
             "owner": "codelion",
             "repo": "pts",
             "stars": 160,
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T13:52:51.571Z",
+    "last_updated": "2026-11-02T16:38:22.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -600,7 +600,7 @@
       "open_issues": 7,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1658,
+      "stars": 1659,
       "topics": [
         "awesome",
         "awesome-list"
