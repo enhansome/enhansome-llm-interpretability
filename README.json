@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 295,
+            "stars": 297,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23804,
+            "stars": 23805,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T16:31:06Z",
-            "open_issues": 1216,
+            "last_commit": "2026-11-03T14:41:35Z",
+            "open_issues": 1218,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12103,
+            "stars": 12118,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T15:35:40Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-02T21:22:14Z",
+            "open_issues": 12,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4031,
+            "stars": 4035,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 27,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2981,
+            "stars": 2982,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -166,7 +166,7 @@
             "open_issues": 38,
             "owner": "jalammar",
             "repo": "ecco",
-            "stars": 2105,
+            "stars": 2106,
             "topics": [
               "explorables",
               "language-models",
@@ -194,7 +194,7 @@
             "open_issues": 38,
             "owner": "MeetKai",
             "repo": "functionary",
-            "stars": 1593,
+            "stars": 1592,
             "topics": [
               "agents",
               "ai",
@@ -244,7 +244,7 @@
             "open_issues": 26,
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 787,
+            "stars": 789,
             "topics": [
               "gpt",
               "interpretability",
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T16:38:22.263Z",
+    "last_updated": "2026-11-03T14:42:37.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -597,7 +597,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-29T13:20:13Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
       "stars": 1659,
