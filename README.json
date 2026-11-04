@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T09:18:56Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 297,
+            "stars": 332,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23805,
+            "stars": 23804,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T14:41:35Z",
-            "open_issues": 1218,
+            "last_commit": "2026-11-04T14:16:48Z",
+            "open_issues": 1221,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12118,
+            "stars": 12137,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T21:22:14Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-04T14:54:20Z",
+            "open_issues": 15,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4035,
+            "stars": 4039,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 27,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2982,
+            "stars": 2983,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -412,7 +412,7 @@
             "open_issues": 0,
             "owner": "FlorianDietz",
             "repo": "comgra",
-            "stars": 303,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -530,6 +530,37 @@
         },
         {
           "node_type": "item",
+          "title": "Neurolume",
+          "description": "Local app for Apple Silicon (MLX) that shows per-layer activity, a logit lens and per-token confidence while you chat with or fine-tune a model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Watch your model learn: fine-tune LLMs on your Mac in a few clicks and see, layer by layer, what training changed.",
+            "homepage": "https://yiteng-chen.github.io/neurolume/",
+            "id": 1439953281,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-03T16:09:09Z",
+            "open_issues": 0,
+            "owner": "Yiteng-CHEN",
+            "repo": "neurolume",
+            "stars": 2,
+            "topics": [
+              "apple-silicon",
+              "fine-tuning",
+              "interpretability",
+              "llm",
+              "local-llm",
+              "logit-lens",
+              "lora",
+              "mlx",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-11-04T14:55:10.569Z"
+        },
+        {
+          "node_type": "item",
           "title": "verified-circuits",
           "description": "End-to-end, independently-checkable mechanistic interpretability for a learned tiny transformer (Dyck-1): a Lean 4 proof of circuit↔spec equivalence plus a torch-free interval-arithmetic certificate that the model implements the circuit on every input — a re-verifiable Spec == Circuit == Model over a complete finite task.",
           "children": [],
@@ -588,7 +619,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:42:37.059Z",
+    "last_updated": "2026-11-04T14:55:10.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -596,8 +627,8 @@
       "id": 734955917,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-29T13:20:13Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-04T06:22:48Z",
+      "open_issues": 7,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
       "stars": 1659,
@@ -606,7 +637,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "05bda165d6ecbc2143f4061106af86936d24f5ea",
+    "original_repository_sha": "e0500633054455f8685b205868f300ea021f4a55",
     "enhanced_repository": "enhansome/enhansome-llm-interpretability",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Interpretability with stars"
