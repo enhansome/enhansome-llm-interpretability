@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 387,
+            "stars": 419,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23804,
+            "stars": 23801,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T12:24:34Z",
-            "open_issues": 1202,
+            "last_commit": "2026-11-08T12:30:24Z",
+            "open_issues": 1205,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12189,
+            "stars": 12202,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -121,10 +121,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-07T01:13:23Z",
-            "open_issues": 21,
+            "open_issues": 24,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4053,
+            "stars": 4055,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -429,8 +429,8 @@
             "id": 976377835,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T08:02:31Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-07T20:05:42Z",
+            "open_issues": 1,
             "owner": "codelion",
             "repo": "pts",
             "stars": 160,
@@ -540,11 +540,11 @@
             "id": 1444582421,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T06:11:04Z",
+            "last_commit": "2026-11-08T01:24:13Z",
             "open_issues": 19,
             "owner": "oumi-ai",
             "repo": "weights-lab",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "ablation",
               "agent-skills",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:38:03.422Z",
+    "last_updated": "2026-11-08T13:56:28.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
