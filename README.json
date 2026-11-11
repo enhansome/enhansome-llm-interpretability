@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 494,
+            "stars": 515,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T15:07:32Z",
-            "open_issues": 1245,
+            "last_commit": "2026-11-11T13:24:48Z",
+            "open_issues": 1238,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12232,
+            "stars": 12244,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T14:58:10Z",
+            "last_commit": "2026-11-10T22:18:54Z",
             "open_issues": 17,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4058,
+            "stars": 4061,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 27,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2987,
+            "stars": 2989,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -166,7 +166,7 @@
             "open_issues": 38,
             "owner": "jalammar",
             "repo": "ecco",
-            "stars": 2106,
+            "stars": 2107,
             "topics": [
               "explorables",
               "language-models",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:16:26.233Z",
+    "last_updated": "2026-11-11T14:46:19.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
