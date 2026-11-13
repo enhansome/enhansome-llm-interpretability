@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 561,
+            "stars": 642,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23802,
+            "stars": 23800,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T14:50:16Z",
-            "open_issues": 1281,
+            "last_commit": "2026-11-13T13:27:28Z",
+            "open_issues": 1283,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12260,
+            "stars": 12271,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T22:30:01Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-12T20:58:48Z",
+            "open_issues": 17,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4065,
+            "stars": 4068,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 27,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2990,
+            "stars": 2991,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -482,6 +482,36 @@
         },
         {
           "node_type": "item",
+          "title": "brainscope",
+          "description": "OpenAI-compatible server with a live view into any Hugging Face model's residual stream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OpenAI-compatible server with a live view into any HF model's residual stream. pip install brainscope",
+            "homepage": null,
+            "id": 1291031738,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-13T12:51:12Z",
+            "open_issues": 1,
+            "owner": "moudrkat",
+            "repo": "brainscope",
+            "stars": 54,
+            "topics": [
+              "activation-steering",
+              "interpretability",
+              "jacobian-lens",
+              "llm",
+              "logit-lens",
+              "mechanistic-interpretability",
+              "openai-api",
+              "transformers"
+            ]
+          },
+          "first_seen": "2026-11-13T14:57:38.842Z"
+        },
+        {
+          "node_type": "item",
           "title": "Floom",
           "description": "AI gateway and marketplace for developers, enables streamlined integration of AI features into products",
           "children": [],
@@ -568,6 +598,27 @@
             ]
           },
           "first_seen": "2026-11-05T14:59:50.466Z"
+        },
+        {
+          "node_type": "item",
+          "title": "probascope",
+          "description": "Android app that runs a decision model on the phone and shows where in the layers its answer formed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Jev-like decision models running natively on your Android phone, with a look inside: where in the layers the answer formed, and the blocks your text went through",
+            "homepage": null,
+            "id": 1452360307,
+            "language": "Vue",
+            "license": "MIT",
+            "last_commit": "2026-11-12T08:51:57Z",
+            "open_issues": 0,
+            "owner": "moudrkat",
+            "repo": "probascope",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-11-13T14:57:38.842Z"
         },
         {
           "node_type": "item",
@@ -660,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:39:07.472Z",
+    "last_updated": "2026-11-13T14:57:38.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -668,8 +719,8 @@
       "id": 734955917,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-05T08:27:02Z",
-      "open_issues": 9,
+      "last_commit": "2026-11-13T12:42:39Z",
+      "open_issues": 7,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
       "stars": 1659,
@@ -678,7 +729,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "bf6427f98b3f73b3c5c8ef2871c623b135939235",
+    "original_repository_sha": "3a5929dfac1f7eb182732eaf245800c60e6ca6a8",
     "enhanced_repository": "enhansome/enhansome-llm-interpretability",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Interpretability with stars"
