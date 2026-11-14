@@ -12,24 +12,24 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 
 ### LLM Interpretability Tools
 
-* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 642 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
+* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 698 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
   *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,271 | 🐛 1,283 | 🌐 Python | 📅 2026-11-13 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
-3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 4,068 | 🐛 17 | 🌐 Python | 📅 2026-11-12 - A Library for Mechanistic Interpretability of Generative Language Models.
-4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,991 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
-5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,107 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,283 | 🐛 1,286 | 🌐 Python | 📅 2026-11-14 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 4,070 | 🐛 14 | 🌐 Python | 📅 2026-11-13 - A Library for Mechanistic Interpretability of Generative Language Models.
+4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 2,995 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
+5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,108 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,591 | 🐛 38 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
 7. [Automated Interpretability](https://github.com/openai/automated-interpretability) ⚠️ Archived - Code for automatically generating, simulating, and scoring explanations of neuron behavior.
-8. [Rome](https://github.com/kmeng01/rome) ⭐ 793 | 🐛 26 | 🌐 Python | 📅 2024-04-20 - Locating and editing factual associations in GPT.
+8. [Rome](https://github.com/kmeng01/rome) ⭐ 794 | 🐛 26 | 🌐 Python | 📅 2024-04-20 - Locating and editing factual associations in GPT.
 9. [Git Re-Basin](https://github.com/samuela/git-re-basin) ⭐ 518 | 🐛 7 | 🌐 Python | 📅 2023-03-07 - Code release for "Git Re-Basin: Merging Models modulo Permutation Symmetries.”
 10. [Inseq](https://github.com/inseq-team/inseq) ⭐ 477 | 🐛 29 | 🌐 Python | 📅 2026-10-22 - Interpretability for sequence generation models.
 11. [Attention Analysis](https://github.com/clarkkev/attention-analysis) ⭐ 475 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2021-04-04 - Analyzing attention maps from BERT transformer.
 12. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) ⭐ 414 | 🐛 4 | 🌐 TeX | 📅 2025-03-02 - A carefully compiled list that summarizes the diverse functions of the attention heads.
 13. [Sparse Autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder) ⭐ 308 | 🐛 15 | 🌐 Python | 📅 2024-07-20 - Sparse Autoencoder for Mechanistic Interpretability.
 14. [Comgra](https://github.com/FlorianDietz/comgra) ⭐ 304 | 🐛 0 | 🌐 Python | 📅 2024-12-07 - Comgra helps you analyze and debug neural networks in pytorch.
-15. [PTS](https://github.com/codelion/pts) ⭐ 161 | 🐛 1 | 🌐 Python | 📅 2026-11-07 - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
+15. [PTS](https://github.com/codelion/pts) ⭐ 162 | 🐛 1 | 🌐 Python | 📅 2026-11-07 - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
 16. [SuperICL](https://github.com/JetRunner/SuperICL) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2023-05-16 - Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.
 17. [brainscope](https://github.com/moudrkat/brainscope) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - OpenAI-compatible server with a live view into any Hugging Face model's residual stream.
 18. [Floom](https://github.com/FloomAI/Floom) ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2024-11-17 AI gateway and marketplace for developers, enables streamlined integration of AI features into products
@@ -160,4 +160,4 @@ Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretabili
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
