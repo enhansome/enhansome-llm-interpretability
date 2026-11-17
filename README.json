@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 840,
+            "stars": 919,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23801,
+            "stars": 23796,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T16:32:17Z",
-            "open_issues": 1296,
+            "last_commit": "2026-11-17T16:31:05Z",
+            "open_issues": 1306,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12316,
+            "stars": 12326,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T15:45:20Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-17T16:05:09Z",
+            "open_issues": 17,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4073,
+            "stars": 4079,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -142,10 +142,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-11-15T17:39:52Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2998,
+            "stars": 2999,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -539,6 +539,41 @@
         },
         {
           "node_type": "item",
+          "title": "Every Other Token",
+          "description": "Rust CLI and web UI that shows each streamed token's confidence, perplexity and top alternatives from logprobs (OpenAI, OpenRouter, Ollama or an exact local model), with occlusion attribution of prompt words.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "See how sure an LLM is about each word.",
+            "homepage": "https://mattbusel.github.io/Every-Other-Token/",
+            "id": 998597311,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-11-15T23:31:25Z",
+            "open_issues": 3,
+            "owner": "Mattbusel",
+            "repo": "Every-Other-Token",
+            "stars": 28,
+            "topics": [
+              "anthropic",
+              "cli",
+              "interpretability",
+              "llm",
+              "llm-interpretability",
+              "logprobs",
+              "openai",
+              "perplexity",
+              "prompt-engineering",
+              "red-teaming",
+              "rust",
+              "streaming",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-11-17T16:31:49.583Z"
+        },
+        {
+          "node_type": "item",
           "title": "SpellGPT",
           "description": "Explores GPT-3’s ability to spell own token strings.",
           "children": [],
@@ -718,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T16:33:02.334Z",
+    "last_updated": "2026-11-17T16:31:49.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -726,17 +761,17 @@
       "id": 734955917,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-13T12:42:39Z",
-      "open_issues": 7,
+      "last_commit": "2026-11-17T05:19:52Z",
+      "open_issues": 8,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
-      "stars": 1661,
+      "stars": 1662,
       "topics": [
         "awesome",
         "awesome-list"
       ]
     },
-    "original_repository_sha": "3a5929dfac1f7eb182732eaf245800c60e6ca6a8",
+    "original_repository_sha": "37984a77ecc7784e74063fdc6a70e30ccce03e02",
     "enhanced_repository": "enhansome/enhansome-llm-interpretability",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Interpretability with stars"
