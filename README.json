@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 919,
+            "stars": 960,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T16:31:05Z",
-            "open_issues": 1306,
+            "last_commit": "2026-11-18T15:13:23Z",
+            "open_issues": 1312,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12326,
+            "stars": 12343,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T16:05:09Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-18T15:16:56Z",
+            "open_issues": 12,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4079,
+            "stars": 4081,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 28,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2999,
+            "stars": 3000,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -166,7 +166,7 @@
             "open_issues": 38,
             "owner": "jalammar",
             "repo": "ecco",
-            "stars": 2108,
+            "stars": 2109,
             "topics": [
               "explorables",
               "language-models",
@@ -194,7 +194,7 @@
             "open_issues": 38,
             "owner": "MeetKai",
             "repo": "functionary",
-            "stars": 1591,
+            "stars": 1590,
             "topics": [
               "agents",
               "ai",
@@ -496,7 +496,7 @@
             "open_issues": 1,
             "owner": "moudrkat",
             "repo": "brainscope",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "activation-steering",
               "interpretability",
@@ -553,7 +553,7 @@
             "open_issues": 3,
             "owner": "Mattbusel",
             "repo": "Every-Other-Token",
-            "stars": 28,
+            "stars": 31,
             "topics": [
               "anthropic",
               "cli",
@@ -609,7 +609,7 @@
             "open_issues": 20,
             "owner": "oumi-ai",
             "repo": "weights-lab",
-            "stars": 7,
+            "stars": 9,
             "topics": [
               "ablation",
               "agent-skills",
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:31:49.583Z",
+    "last_updated": "2026-11-18T16:00:41.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
