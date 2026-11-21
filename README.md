@@ -12,12 +12,12 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 
 ### LLM Interpretability Tools
 
-* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 1,049 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
+* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 1,084 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
   *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,367 | 🐛 1,319 | 🌐 Python | 📅 2026-11-20 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
-3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 4,086 | 🐛 18 | 🌐 Python | 📅 2026-11-19 - A Library for Mechanistic Interpretability of Generative Language Models.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,368 | 🐛 1,321 | 🌐 Python | 📅 2026-11-21 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 4,089 | 🐛 17 | 🌐 Python | 📅 2026-11-20 - A Library for Mechanistic Interpretability of Generative Language Models.
 4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 3,001 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
 5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,107 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,589 | 🐛 38 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
@@ -35,7 +35,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 18. [Floom](https://github.com/FloomAI/Floom) ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2024-11-17 AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 19. [Every Other Token](https://github.com/Mattbusel/Every-Other-Token) ⭐ 32 | 🐛 3 | 🌐 Rust | 📅 2026-11-15 - Rust CLI and web UI that shows each streamed token's confidence, perplexity and top alternatives from logprobs (OpenAI, OpenRouter, Ollama or an exact local model), with occlusion attribution of prompt words.
 20. [SpellGPT](https://github.com/mwatkins1970/SpellGPT) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-10-03 - Explores GPT-3’s ability to spell own token strings.
-21. [Oumi Weights Lab](https://github.com/oumi-ai/weights-lab) ⭐ 10 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Agent skill and persistent worker for ablating, editing, and swapping an open LLM's weights, measuring each change's effect on its answers, and undoing it exactly.
+21. [Oumi Weights Lab](https://github.com/oumi-ai/weights-lab) ⭐ 12 | 🐛 20 | 🌐 Python | 📅 2026-11-08 - Agent skill and persistent worker for ablating, editing, and swapping an open LLM's weights, measuring each change's effect on its answers, and undoing it exactly.
 22. [Neurolume](https://github.com/Yiteng-CHEN/neurolume) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-06 - Local app for Apple Silicon (MLX) that shows per-layer activity, a logit lens and per-token confidence while you chat with or fine-tune a model.
 23. [probascope](https://github.com/moudrkat/probascope) ⭐ 4 | 🐛 0 | 🌐 Vue | 📅 2026-11-12 - Android app that runs a decision model on the phone and shows where in the layers its answer formed.
 24. [Circuit Lantern](https://github.com/IlyaKhalafi/CircuitLantern) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18 - A local web app for transformer activation tracing, causal interventions, and sparse autoencoder experiments.
@@ -161,4 +161,4 @@ Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretabili
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

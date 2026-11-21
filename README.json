@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 1049,
+            "stars": 1084,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23790,
+            "stars": 23788,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T15:18:28Z",
-            "open_issues": 1319,
+            "last_commit": "2026-11-21T12:09:18Z",
+            "open_issues": 1321,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12367,
+            "stars": 12368,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T15:58:23Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-20T20:23:52Z",
+            "open_issues": 17,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4086,
+            "stars": 4089,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -223,7 +223,7 @@
             "open_issues": 16,
             "owner": "openai",
             "repo": "automated-interpretability",
-            "stars": 1084,
+            "stars": 1082,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -609,7 +609,7 @@
             "open_issues": 20,
             "owner": "oumi-ai",
             "repo": "weights-lab",
-            "stars": 10,
+            "stars": 12,
             "topics": [
               "ablation",
               "agent-skills",
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T15:48:25.538Z",
+    "last_updated": "2026-11-21T14:58:25.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
