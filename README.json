@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 1084,
+            "stars": 1126,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23788,
+            "stars": 23785,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T12:09:18Z",
+            "last_commit": "2026-11-22T12:09:02Z",
             "open_issues": 1321,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12368,
+            "stars": 12373,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -121,10 +121,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-20T20:23:52Z",
-            "open_issues": 17,
+            "open_issues": 21,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4089,
+            "stars": 4092,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 28,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 3001,
+            "stars": 3003,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -270,7 +270,7 @@
             "open_issues": 7,
             "owner": "samuela",
             "repo": "git-re-basin",
-            "stars": 518,
+            "stars": 520,
             "topics": [
               "deep-learning",
               "deeplearning",
@@ -297,7 +297,7 @@
             "open_issues": 29,
             "owner": "inseq-team",
             "repo": "inseq",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "attribution-methods",
               "captum",
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:58:25.753Z",
+    "last_updated": "2026-11-22T14:56:26.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
