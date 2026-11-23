@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 1126,
+            "stars": 1155,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23785,
+            "stars": 23787,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T12:09:02Z",
-            "open_issues": 1321,
+            "last_commit": "2026-11-23T18:42:22Z",
+            "open_issues": 1318,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12373,
+            "stars": 12386,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T20:23:52Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-23T15:12:15Z",
+            "open_issues": 20,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4092,
+            "stars": 4100,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 28,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 3003,
+            "stars": 3005,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T14:56:26.235Z",
+    "last_updated": "2026-11-23T18:48:35.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
@@ -762,7 +762,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-17T05:19:52Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "JShollaj",
       "repo": "awesome-llm-interpretability",
       "stars": 1661,
