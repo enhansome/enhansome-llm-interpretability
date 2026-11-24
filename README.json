@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 1155,
+            "stars": 1190,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 289,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23787,
+            "stars": 23786,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T18:42:22Z",
-            "open_issues": 1318,
+            "last_commit": "2026-11-24T18:21:17Z",
+            "open_issues": 1301,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12386,
+            "stars": 12406,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -120,11 +120,11 @@
             "id": 529394355,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-23T15:12:15Z",
+            "last_commit": "2026-11-24T17:26:41Z",
             "open_issues": 20,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4100,
+            "stars": 4105,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 28,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 3005,
+            "stars": 3008,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -194,7 +194,7 @@
             "open_issues": 38,
             "owner": "MeetKai",
             "repo": "functionary",
-            "stars": 1589,
+            "stars": 1590,
             "topics": [
               "agents",
               "ai",
@@ -244,7 +244,7 @@
             "open_issues": 27,
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 794,
+            "stars": 795,
             "topics": [
               "gpt",
               "interpretability",
@@ -391,7 +391,7 @@
             "open_issues": 15,
             "owner": "ai-safety-foundation",
             "repo": "sparse_autoencoder",
-            "stars": 309,
+            "stars": 308,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -636,6 +636,34 @@
         },
         {
           "node_type": "item",
+          "title": "probascope",
+          "description": "Android app that runs a decision model on the phone and shows where in the layers its answer formed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Jev-like decision models running natively on your Android phone, with a look inside: where in the layers the answer formed, and the blocks your text went through",
+            "homepage": null,
+            "id": 1452360307,
+            "language": "Vue",
+            "license": "MIT",
+            "last_commit": "2026-11-12T08:51:57Z",
+            "open_issues": 0,
+            "owner": "moudrkat",
+            "repo": "probascope",
+            "stars": 5,
+            "topics": [
+              "android",
+              "edge-ai",
+              "interpretability",
+              "llama-cpp",
+              "logit-lens",
+              "on-device-ai"
+            ]
+          },
+          "first_seen": "2026-11-13T14:57:38.842Z"
+        },
+        {
+          "node_type": "item",
           "title": "Neurolume",
           "description": "Local app for Apple Silicon (MLX) that shows per-layer activity, a logit lens and per-token confidence while you chat with or fine-tune a model.",
           "children": [],
@@ -664,34 +692,6 @@
             ]
           },
           "first_seen": "2026-11-04T14:55:10.569Z"
-        },
-        {
-          "node_type": "item",
-          "title": "probascope",
-          "description": "Android app that runs a decision model on the phone and shows where in the layers its answer formed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Jev-like decision models running natively on your Android phone, with a look inside: where in the layers the answer formed, and the blocks your text went through",
-            "homepage": null,
-            "id": 1452360307,
-            "language": "Vue",
-            "license": "MIT",
-            "last_commit": "2026-11-12T08:51:57Z",
-            "open_issues": 0,
-            "owner": "moudrkat",
-            "repo": "probascope",
-            "stars": 4,
-            "topics": [
-              "android",
-              "edge-ai",
-              "interpretability",
-              "llama-cpp",
-              "logit-lens",
-              "on-device-ai"
-            ]
-          },
-          "first_seen": "2026-11-13T14:57:38.842Z"
         },
         {
           "node_type": "item",
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T18:48:35.890Z",
+    "last_updated": "2026-11-24T18:25:16.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
