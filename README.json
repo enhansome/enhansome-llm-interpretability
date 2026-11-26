@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 1215,
+            "stars": 1224,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -53,10 +53,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-02T14:14:20Z",
-            "open_issues": 289,
+            "open_issues": 288,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23781,
+            "stars": 23785,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T17:40:06Z",
-            "open_issues": 1302,
+            "last_commit": "2026-11-26T13:38:56Z",
+            "open_issues": 1305,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12425,
+            "stars": 12440,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -121,10 +121,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-25T16:01:03Z",
-            "open_issues": 15,
+            "open_issues": 22,
             "owner": "TransformerLensOrg",
             "repo": "TransformerLens",
-            "stars": 4106,
+            "stars": 4108,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -145,7 +145,7 @@
             "open_issues": 28,
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 3008,
+            "stars": 3009,
             "topics": []
           },
           "first_seen": "2026-08-28T19:06:53.877Z"
@@ -294,7 +294,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T11:21:28Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "inseq-team",
             "repo": "inseq",
             "stars": 478,
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:40:23.910Z",
+    "last_updated": "2026-11-26T17:23:18.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",
