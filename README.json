@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 1224,
+            "stars": 1241,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -56,7 +56,7 @@
             "open_issues": 288,
             "owner": "vanna-ai",
             "repo": "vanna",
-            "stars": 23785,
+            "stars": 23784,
             "topics": [
               "agent",
               "ai",
@@ -82,11 +82,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T13:38:56Z",
-            "open_issues": 1305,
+            "last_commit": "2026-11-27T16:23:08Z",
+            "open_issues": 1311,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 12440,
+            "stars": 12458,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -244,7 +244,7 @@
             "open_issues": 27,
             "owner": "kmeng01",
             "repo": "rome",
-            "stars": 795,
+            "stars": 796,
             "topics": [
               "gpt",
               "interpretability",
@@ -270,7 +270,7 @@
             "open_issues": 7,
             "owner": "samuela",
             "repo": "git-re-basin",
-            "stars": 520,
+            "stars": 519,
             "topics": [
               "deep-learning",
               "deeplearning",
@@ -293,8 +293,8 @@
             "id": 406341006,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T11:21:28Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-27T09:52:02Z",
+            "open_issues": 30,
             "owner": "inseq-team",
             "repo": "inseq",
             "stars": 478,
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:23:18.588Z",
+    "last_updated": "2026-11-27T17:01:06.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Large Language Model (LLM) Interpretability resources.",

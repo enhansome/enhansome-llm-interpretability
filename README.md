@@ -12,19 +12,19 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 
 ### LLM Interpretability Tools
 
-* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 1,224 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
+* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 1,241 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 — capture the real LLM request/response stream and replay it offline.
   *Tools and libraries for LLM interpretability and analysis.*
 
 1. [Vanna](https://github.com/vanna-ai/vanna) ⚠️ Archived - Abstractions to use RAG to generate SQL with any LLM
-2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,440 | 🐛 1,305 | 🌐 Python | 📅 2026-11-26 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+2. [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,458 | 🐛 1,311 | 🌐 Python | 📅 2026-11-27 - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
 3. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) ⭐ 4,108 | 🐛 22 | 🌐 Python | 📅 2026-11-25 - A Library for Mechanistic Interpretability of Generative Language Models.
 4. [Pythia](https://github.com/EleutherAI/pythia) ⭐ 3,009 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-11-15 - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
 5. [ecco](https://github.com/jalammar/ecco) ⭐ 2,107 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 6. [Functionary](https://github.com/MeetKai/functionary) ⭐ 1,590 | 🐛 38 | 🌐 Python | 📅 2026-06-30 - Chat language model that can interpret and execute functions/plugins.
 7. [Automated Interpretability](https://github.com/openai/automated-interpretability) ⚠️ Archived - Code for automatically generating, simulating, and scoring explanations of neuron behavior.
-8. [Rome](https://github.com/kmeng01/rome) ⭐ 795 | 🐛 27 | 🌐 Python | 📅 2024-04-20 - Locating and editing factual associations in GPT.
-9. [Git Re-Basin](https://github.com/samuela/git-re-basin) ⭐ 520 | 🐛 7 | 🌐 Python | 📅 2023-03-07 - Code release for "Git Re-Basin: Merging Models modulo Permutation Symmetries.”
-10. [Inseq](https://github.com/inseq-team/inseq) ⭐ 478 | 🐛 31 | 🌐 Python | 📅 2026-10-22 - Interpretability for sequence generation models.
+8. [Rome](https://github.com/kmeng01/rome) ⭐ 796 | 🐛 27 | 🌐 Python | 📅 2024-04-20 - Locating and editing factual associations in GPT.
+9. [Git Re-Basin](https://github.com/samuela/git-re-basin) ⭐ 519 | 🐛 7 | 🌐 Python | 📅 2023-03-07 - Code release for "Git Re-Basin: Merging Models modulo Permutation Symmetries.”
+10. [Inseq](https://github.com/inseq-team/inseq) ⭐ 478 | 🐛 30 | 🌐 Python | 📅 2026-11-27 - Interpretability for sequence generation models.
 11. [Attention Analysis](https://github.com/clarkkev/attention-analysis) ⭐ 475 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2021-04-04 - Analyzing attention maps from BERT transformer.
 12. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) ⭐ 414 | 🐛 4 | 🌐 TeX | 📅 2025-03-02 - A carefully compiled list that summarizes the diverse functions of the attention heads.
 13. [Sparse Autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder) ⭐ 308 | 🐛 16 | 🌐 Python | 📅 2024-07-20 - Sparse Autoencoder for Mechanistic Interpretability.
@@ -113,7 +113,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 58. [Correcting Mean Bias in Text Embeddings: A Refined Renormalization with Training-Free Improvements on MMTEB](https://arxiv.org/abs/2511.11041) - Shows that sentence-embedding models add a near-constant mean vector to every output. Projecting this direction out needs no training and improves classification on 29 of 38 MMTEB models.
 59. [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543) - Activation analysis finds that a subset of mid-to-deep FFN layers is disproportionately activated when an LLM ignores relevant retrieved context in favor of its parametric memory; suppressing these FFNs makes generation more faithful to the context (NeurIPS 2025).
 60. [Echoes as Anchors: Probabilistic Costs and Attention Refocusing in LLM Reasoning](https://arxiv.org/abs/2602.06600) - Studies why reasoning models restate the question at the start of their chain-of-thought (Echo of Prompt): reinserting an echo into failed GSM8K traces raises exact match by 10.4 and 7.9 points for DeepSeek-R1-Distill-Llama-8B and Qwen3-8B but not for a base model, and layer-wise attention analysis shows higher answer-to-answer-prefix attention in middle layers (ICLR 2026).
-61. [Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](https://arxiv.org/abs/2606.08454) (NeurIPS 2026 Spotlight) - Proposes INNSteer, which learns a lightweight invertible neural network that maps LLM activations into a latent space where behaviors are linearly controllable; a latent translation mapped back through the exact inverse gives a nonlinear, input-dependent steering intervention. [Code](https://github.com/nguyentuc/INNSteer) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-11
+61. [Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](https://arxiv.org/abs/2606.08454) (NeurIPS 2026 Spotlight) - Proposes INNSteer, which learns a lightweight invertible neural network that maps LLM activations into a latent space where behaviors are linearly controllable; a latent translation mapped back through the exact inverse gives a nonlinear, input-dependent steering intervention. [Code](https://github.com/nguyentuc/INNSteer) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-11
 
 ***
 
@@ -161,4 +161,4 @@ Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretabili
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
